@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 127\n Sections:\n----\n1.1 - Introduction\n1.2 - Seven great ideas in computer architecture\n1.3 - Below your program\n1.4 - Under the covers\n1.5 - Technologies for building processors and memory\n1.6 - Performance\n----
+DTSTART:20220903T065900Z
+SUMMARY:CS 331 - Week 1 reading assignment
+UID:77ea6d01-b983-4c0b-b7d6-3dd056dbd6d5@77ea.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 40\n Sections:\n----\n2.5 - Representing instructions in the computer\n2.10 - MIPS addressing for 32-bit immediates and addresses\n2.16 - Real stuff: ARMv7 (32-bit) instructions\n----
+DTSTART:20220919T190000Z
+SUMMARY:CS 331 - Week 4 reading assignment
+UID:66fed8ad-129c-41f8-8f20-79515e06b7da@66fe.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 66\n Sections:\n----\n4.2 - Selection sort\n4.4 - Insertion sort\n4.6 - Shell sort\n4.8 - Quicksort\n4.10 - Merge sort\n4.12 - Radix sort\n4.14 - Overview of fast sorting algorithms\n4.15 - C++: Sorting with different operators\n4.16 - Sorting linked lists\n4.17 - C++: Sorting linked lists\n----
+DTSTART:20221003T163000Z
+SUMMARY:CS 311 - Participation activity 8
+UID:1e212a53-7a57-4558-a74a-0ce77d443b04@1e21.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 44\n Sections:\n----\n5.6 - Deque abstract data type (ADT)\n5.7 - Array-based lists\n5.8 - C++: Array-based list\n----
+DTSTART:20221010T163000Z
+SUMMARY:CS 311 - Participation activity 10
+UID:4737c673-f33b-4a43-a022-ab2c91aa2419@4737.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 71\n Sections:\n----\n4.8 - Quicksort\n4.9 - C++: Quicksort\n4.10 - Merge sort\n4.11 - C++: Merge sort\n4.12 - Radix sort\n4.13 - C++: Radix sort\n----
+DTSTART:20220930T163000Z
+SUMMARY:CS 311 - Participation activity 7
+UID:9dbd05f7-b217-41d4-8156-42c65d3cd020@9dbd.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 51\n Sections:\n----\n4.1 - Sorting: Introduction\n4.2 - Selection sort\n4.3 - C++: Selection sort\n4.4 - Insertion sort\n4.5 - C++: Insertion sort\n4.6 - Shell sort\n4.7 - C++: Shell sort\n----
+DTSTART:20220926T163000Z
+SUMMARY:CS 311 - Participation activity 6
+UID:acfbba18-7f79-4310-9209-7f11d52401a4@acfb.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 16\n Sections:\n----\n6.1 - Binary trees\n6.3 - Binary search trees\n6.4 - BST search algorithm\n6.5 - BST insert algorithm\n6.6 - BST remove algorithm\n----
+DTSTART:20221021T163000Z
+SUMMARY:CS 311 - Trees challenge activities 
+UID:12ae16a7-164e-429f-bf6b-76a642cbde5c@12ae.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 63\n Sections:\n----\n4.3 - Building a datapath\n4.4 - A simple implementation scheme\n----
+DTSTART:20221017T190000Z
+SUMMARY:CS 331 - Week 8 reading assignment
+UID:fd984569-e8f3-4979-889e-2a56767f59a0@fd98.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 81\n Sections:\n----\n4.6 - An overview of pipelining\n4.7 - Pipelined datapath and control\n4.8 - Data hazards: Forwarding versus stalling\n----
+DTSTART:20221024T190000Z
+SUMMARY:CS 331 - Week 9 reading assignment
+UID:6f122d71-92c3-45aa-bbe5-59f518fae1a2@6f12.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 72\n Sections:\n----\n3.1 - Algorithm efficiency\n3.2 - Searching and algorithms\n3.3 - Binary search\n3.4 - C++: Linear and binary search\n3.5 - Constant time operations\n3.6 - Growth of functions and complexity\n3.7 - O notation\n----
+DTSTART:20220919T163000Z
+SUMMARY:CS 311 - Participation activity 4
+UID:3cd84d6b-3ed8-4bc2-b14f-6527ee633cde@3cd8.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 69\n Sections:\n----\n6.1 - Binary trees\n6.2 - Applications of trees\n6.3 - Binary search trees\n6.4 - BST search algorithm\n----
+DTSTART:20221014T163000Z
+SUMMARY:CS 311 - Participation activity 11
+UID:8e781d2e-9cde-47a1-9208-f7e83e8bdd85@8e78.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 30\n Sections:\n----\n2.2 - Singly-linked lists\n2.3 - Singly-linked lists: Insert\n2.4 - Singly-linked lists: Remove\n2.5 - Linked list search\n2.7 - Doubly-linked lists\n2.8 - Doubly-linked lists: Insert\n2.9 - Doubly-linked lists: Remove\n----
+DTSTART:20220917T065900Z
+SUMMARY:CS 311 - Challenge activity linked list
+UID:3d060abb-7173-487b-8d7a-f253dae819cb@3d06.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 21\n Sections:\n----\n1.8 - The sea change: The switch from uniprocessors to multiprocessors\n1.11 - Fallacies and pitfalls\n1.12 - Concluding remarks\n----
+DTSTART:20220905T190000Z
+SUMMARY:CS 331 - Week 2 reading assignment
+UID:5ec24057-cd0a-4257-aa67-30665ff7369e@5ec2.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 68\n Sections:\n----\n2.7 - Doubly-linked lists\n2.8 - Doubly-linked lists: Insert\n2.9 - Doubly-linked lists: Remove\n2.10 - C++: Doubly-linked lists\n2.11 - Linked list traversal\n2.12 - Linked list dummy nodes\n2.13 - Linked lists: Recursion\n----
+DTSTART:20220912T163000Z
+SUMMARY:CS 311 - Participation activity 3
+UID:9d7b0e2d-ae8d-443d-8e0b-ce91670fed23@9d7b.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 26\n Sections:\n----\n3.3 - Multiplication\n7.5 - Constructing a basic arithmetic logic unit\n----
+DTSTART:20221005T190000Z
+SUMMARY:CS 331 - Week 6 reading assignment
+UID:086c31be-beb6-43c7-90c4-4827a1c9fe1a@086c.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 51\n Sections:\n----\n5.1 - Stack abstract data type (ADT)\n5.2 - Stacks using linked lists\n5.3 - Queue abstract data type (ADT)\n5.4 - Queues using linked lists\n5.5 - C++: Stacks and queues\n----
+DTSTART:20221007T163000Z
+SUMMARY:CS 311 - Participation activity 9
+UID:d3c3cfe0-3553-4013-a36a-6ce88bf8895f@d3c3.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 41\n Sections:\n----\n3.8 - Algorithm analysis\n3.9 - Recursive definitions\n3.10 - Recursive algorithms\n3.11 - Analyzing the time complexity of recursive algorithms\n----
+DTSTART:20220923T163000Z
+SUMMARY:CS 311 - Participation activity 5
+UID:0069ef82-1643-430e-a9b1-6995fc3d7149@0069.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 38\n Sections:\n----\n1.1 - Data structures\n1.2 - Introduction to algorithms\n1.3 - Relation between data structures and algorithms\n1.4 - Abstract data types\n1.5 - Applications of ADTs\n----
+DTSTART:20220902T163000Z
+SUMMARY:CS 311 - Participation Activity 1
+UID:64d67fb6-fb1d-4967-8bef-01e995e306ca@64d6.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 69\n Sections:\n----\n6.5 - BST insert algorithm\n6.6 - BST remove algorithm\n6.7 - BST inorder traversal\n6.8 - BST height and insertion order\n6.9 - BST parent node pointers\n6.10 - BST: Recursion\n6.12 - C++: Binary search tree\n----
+DTSTART:20221017T163000Z
+SUMMARY:CS 311 - Participation activity 12
+UID:1342b495-6e99-4feb-91c7-f537c42d4047@1342.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 139\n Sections:\n----\n2.1 - Introduction\n2.2 - Operations of the computer hardware\n2.3 - Operands of the computer hardware\n2.4 - Signed and unsigned numbers\n2.6 - Logical operations\n2.7 - Instructions for making decisions\n----
+DTSTART:20220912T190000Z
+SUMMARY:CS 331 - Week 3 reading assignment
+UID:1db0744c-682d-489e-bcae-78e77e4ee3f6@1db0.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 33\n Sections:\n----\n3.1 - Introduction\n3.2 - Addition and subtraction\n7.2 - Gates\, truth tables\, and logic equations\n7.3 - Combinational logic\n----
+DTSTART:20220926T190000Z
+SUMMARY:CS 331 - Week 5 reading assignment
+UID:03495f62-e088-4658-8ad2-9ed10ece7927@0349.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 80\n Sections:\n----\n3.4 - Division\n3.5 - Floating point\n4.1 - Introduction\n4.2 - Logic design conventions\n----
+DTSTART:20221010T190000Z
+SUMMARY:CS 331 - Week 7 reading assignment
+UID:7c6902e4-ce7f-4523-b1e1-058f0d435f3e@7c69.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS331AlNajjarFall2022?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 62\n Sections:\n----\n2.1 - List abstract data type (ADT)\n2.2 - Singly-linked lists\n2.3 - Singly-linked lists: Insert\n2.4 - Singly-linked lists: Remove\n2.5 - Linked list search\n2.6 - C++: Singly-linked lists\n----
+DTSTART:20220909T163000Z
+SUMMARY:CS 311 - Participation activity 2
+UID:abc3ab74-21d1-4003-8c1d-58824290313b@abc3.org
+URL:https://learn.zybooks.com/zybook/CSUSMCS311ZhangFall2022?selectedPanel=assignments-panel
+END:VEVENT
+END:VCALENDAR
